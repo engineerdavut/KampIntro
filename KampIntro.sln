@@ -15,11 +15,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Matematik", "Matematik\Mate
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DegerReferansTipler", "DegerReferansTipler\DegerReferansTipler.csproj", "{0F310BE3-66C1-42FC-84E1-38DDB6CA45AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP1", "OOP1\OOP1.csproj", "{1D2297E3-227D-4E67-B7B5-DF34C0B1D51A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", "{1D2297E3-227D-4E67-B7B5-DF34C0B1D51A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{6EC6DED9-255D-4B5B-8F59-C2BC57862B16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{6EC6DED9-255D-4B5B-8F59-C2BC57862B16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{FD536230-A352-439F-B738-858771B842F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{FD536230-A352-439F-B738-858771B842F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDictionary", "MyDictionary\MyDictionary.csproj", "{824BCE95-E6C7-47F7-ACD6-77CD7D7B9BF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{FD536230-A352-439F-B738-858771B842F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD536230-A352-439F-B738-858771B842F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD536230-A352-439F-B738-858771B842F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824BCE95-E6C7-47F7-ACD6-77CD7D7B9BF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824BCE95-E6C7-47F7-ACD6-77CD7D7B9BF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824BCE95-E6C7-47F7-ACD6-77CD7D7B9BF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824BCE95-E6C7-47F7-ACD6-77CD7D7B9BF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
